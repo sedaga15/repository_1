@@ -2,3 +2,10 @@ texto de prueba
 
 first change into the file
 end
+
+text only for dynare
+this is plain text
+
+intended to combine with python
+not success
+end2
